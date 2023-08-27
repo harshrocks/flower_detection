@@ -1,0 +1,64 @@
+1 - Ochna serrulata
+10- Cyanthillium cinereum
+11- Brunfelsia americana
+12- Lagerstroemia indica
+13- Malvaviscus arboreus
+14- Cryptostegia grandiflora
+15- Calliandra surinamensis
+16- Hymenocallis littoralis
+17- Allamanda blanchetii
+18- Duranta erecta
+19- Ixora coccinea
+2 - Dracaena surculosa
+20- Allamanda cathartica
+21- Cuphea hyssopifolia
+22- Mussaenda philippica
+23- Rondeletia odorata
+24- Etlingera elatior
+25- Mussaenda erythrophylla
+26- Rotheca microphylla
+27- Pseuderanthemum carruthersii
+28- Lantana camara
+29- Crossandra infundibuliformis
+3 - Bougainvillea
+30- Heliconia psittacorum
+31- Catharanthus roseus
+32- Rivina humilis
+33- Euphorbia geroldii
+34- Chrysothemis pulchella
+35- Begonia aconitifolia
+36- Begonia rex
+37- Spathiphyllum friedrichsthalii
+38- Ruellia tuberosa
+39- Oxalis triangularis
+40- Combretum indicum
+41- Euphorbia hirta
+42- Desmodium glabellum
+43- Adenium obesum
+44- Oncidium sphacelatum
+45- Caesalpinia pulcherrima
+46- Mirabilis longiflora
+47- Costus woodsonii
+48- Sida rhombifolia
+49- Impatiens walleriana
+5 - Bougainvillea buttiana
+50- Anthurium andraeanum
+51- Begonia cucullata
+52- Celosia argentea
+53- Hibiscus fragilis
+54- Galphimia glauca
+55- Canna generalis
+56- Plectranthus scutellarioides
+57- Paracarphalea kirondron
+58- Allamanda schottii
+6 - Turnera ulmifolia
+60 - Arachnothryx leucophylla
+61 - Heliconia rostrata
+62 - Zinnia elegans
+63 - Stachytarpheta urticifolia
+64 - Sphagneticola trilobata
+65 - Hibiscus rosa-sinensis
+66 - Clerodendrum thomsoniae
+7 - Tabernaemontana divaricata
+8- Ixora chinensis
+9- Mirabilis jalapa
